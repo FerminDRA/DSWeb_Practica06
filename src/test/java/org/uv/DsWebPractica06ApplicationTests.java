@@ -8,6 +8,8 @@ class DsWebPractica06ApplicationTests {
 
 	@Test
 	void contextLoads() {
+
+		
 	}
 
 }
