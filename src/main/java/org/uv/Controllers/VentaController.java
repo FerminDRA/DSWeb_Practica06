@@ -74,8 +74,11 @@ public class VentaController {
     }
     
     @ExceptionHandler(Exception.class)
-    @ResponseStatus(value = HttpStatus.INTERNAL_SERVER_ERROR, reason = "Error message")
+    @ResponseStatus(value = HttpStatus.INTERNAL_SERVER_ERROR, reason = "Error msg")
     public void handleError() {
     }
     
 }
+
+
+

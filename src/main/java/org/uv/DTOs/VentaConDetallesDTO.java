@@ -10,8 +10,9 @@ import java.util.List;
 import org.uv.Model.VentaDetalle;
 
 /**
- *
+ 
  * @author fermin
+ 
  */
 public class VentaConDetallesDTO {
     private Date fecha;
@@ -45,3 +46,5 @@ public class VentaConDetallesDTO {
     
     
 }
+
+
